@@ -1,0 +1,45 @@
+c:\users\hanhlv\documents\visual studio 2013\Projects\Caro_AlphaBeta\Caro_AlphaBeta\bin\Debug\Caro_AlphaBeta.exe.config
+c:\users\hanhlv\documents\visual studio 2013\Projects\Caro_AlphaBeta\Caro_AlphaBeta\bin\Debug\Caro_AlphaBeta.exe
+c:\users\hanhlv\documents\visual studio 2013\Projects\Caro_AlphaBeta\Caro_AlphaBeta\bin\Debug\Caro_AlphaBeta.pdb
+c:\users\hanhlv\documents\visual studio 2013\Projects\Caro_AlphaBeta\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.csprojResolveAssemblyReference.cache
+c:\users\hanhlv\documents\visual studio 2013\Projects\Caro_AlphaBeta\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.Form1.resources
+c:\users\hanhlv\documents\visual studio 2013\Projects\Caro_AlphaBeta\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.Properties.Resources.resources
+c:\users\hanhlv\documents\visual studio 2013\Projects\Caro_AlphaBeta\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.csproj.GenerateResource.Cache
+c:\users\hanhlv\documents\visual studio 2013\Projects\Caro_AlphaBeta\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.exe
+c:\users\hanhlv\documents\visual studio 2013\Projects\Caro_AlphaBeta\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.pdb
+C:\Users\Hanh\Desktop\Caro-master\Caro_AlphaBeta\bin\Debug\Caro_AlphaBeta.exe.config
+C:\Users\Hanh\Desktop\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.exe
+C:\Users\Hanh\Desktop\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.pdb
+C:\Users\Hanh\Desktop\Caro-master\Caro_AlphaBeta\bin\Debug\Caro_AlphaBeta.exe
+C:\Users\Hanh\Desktop\Caro-master\Caro_AlphaBeta\bin\Debug\Caro_AlphaBeta.pdb
+C:\Users\Hanh\Desktop\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.csprojResolveAssemblyReference.cache
+C:\Users\Hanh\Desktop\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.Form1.resources
+C:\Users\Hanh\Desktop\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.Properties.Resources.resources
+C:\Users\Hanh\Desktop\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.csproj.GenerateResource.Cache
+C:\Users\Hanh\Desktop\Caro2-master\Caro-master\Caro_AlphaBeta\bin\Debug\Caro_AlphaBeta.exe.config
+C:\Users\Hanh\Desktop\Caro2-master\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.exe
+C:\Users\Hanh\Desktop\Caro2-master\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.pdb
+C:\Users\Hanh\Desktop\Caro2-master\Caro-master\Caro_AlphaBeta\bin\Debug\Caro_AlphaBeta.exe
+C:\Users\Hanh\Desktop\Caro2-master\Caro-master\Caro_AlphaBeta\bin\Debug\Caro_AlphaBeta.pdb
+C:\Users\Hanh\Desktop\Caro2-master\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.csprojResolveAssemblyReference.cache
+C:\Users\Hanh\Desktop\Caro2-master\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.Form1.resources
+C:\Users\Hanh\Desktop\Caro2-master\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.Properties.Resources.resources
+C:\Users\Hanh\Desktop\Caro2-master\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.csproj.GenerateResource.Cache
+C:\Users\Hanh\Desktop\Caro\Caro-master\Caro_AlphaBeta\bin\Debug\Caro_AlphaBeta.exe.config
+C:\Users\Hanh\Desktop\Caro\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.exe
+C:\Users\Hanh\Desktop\Caro\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.pdb
+C:\Users\Hanh\Desktop\Caro\Caro-master\Caro_AlphaBeta\bin\Debug\Caro_AlphaBeta.exe
+C:\Users\Hanh\Desktop\Caro\Caro-master\Caro_AlphaBeta\bin\Debug\Caro_AlphaBeta.pdb
+C:\Users\Hanh\Desktop\Caro\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.csprojResolveAssemblyReference.cache
+C:\Users\Hanh\Desktop\Caro\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.Form1.resources
+C:\Users\Hanh\Desktop\Caro\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.Properties.Resources.resources
+C:\Users\Hanh\Desktop\Caro\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.csproj.GenerateResource.Cache
+C:\Users\Hanh\Desktop\Caro Minimax\Caro-master\Caro_AlphaBeta\bin\Debug\Caro_AlphaBeta.exe.config
+C:\Users\Hanh\Desktop\Caro Minimax\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.exe
+C:\Users\Hanh\Desktop\Caro Minimax\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.pdb
+C:\Users\Hanh\Desktop\Caro Minimax\Caro-master\Caro_AlphaBeta\bin\Debug\Caro_AlphaBeta.exe
+C:\Users\Hanh\Desktop\Caro Minimax\Caro-master\Caro_AlphaBeta\bin\Debug\Caro_AlphaBeta.pdb
+C:\Users\Hanh\Desktop\Caro Minimax\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.csprojResolveAssemblyReference.cache
+C:\Users\Hanh\Desktop\Caro Minimax\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.Form1.resources
+C:\Users\Hanh\Desktop\Caro Minimax\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.Properties.Resources.resources
+C:\Users\Hanh\Desktop\Caro Minimax\Caro-master\Caro_AlphaBeta\obj\Debug\Caro_AlphaBeta.csproj.GenerateResource.Cache
